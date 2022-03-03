@@ -1,1 +1,0 @@
-My first bash project in ALX 
